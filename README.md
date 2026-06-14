@@ -19,7 +19,7 @@ Built with **Python**, **Streamlit**, **PyPDF2**, and **spaCy**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component        | Technology        |
 |-------------------|-------------------|
