@@ -1,4 +1,4 @@
-# 📄 AI Resume Analyzer
+# AI Resume Analyzer
 
 An AI-powered web application that analyzes resumes (PDF format), extracts skills using NLP, scores the resume, and matches it against job-specific skill requirements — providing actionable improvement suggestions.
 
@@ -13,7 +13,7 @@ Built with **Python**, **Streamlit**, **PyPDF2**, and **spaCy**.
 -  **NLP-Based Skill Extraction** — uses spaCy's `PhraseMatcher` to accurately detect single- and multi-word skills (e.g., "Machine Learning", "Deep Learning")
 -  **Resume Score** — calculates an overall score based on detected skills
 -  **Job Role Matching** — select a target role (Data Scientist, AI Engineer, etc.) and get a percentage match score
--  **Matched & ❌ Missing Skills** — clear visual breakdown of skill gaps
+-  **Matched & Missing Skills** — clear visual breakdown of skill gaps
 -  **Improvement Suggestions** — personalized, actionable tips to improve your resume
 -  **Clean, Modern UI** — custom CSS styling for a professional look
 
@@ -31,7 +31,7 @@ Built with **Python**, **Streamlit**, **PyPDF2**, and **spaCy**.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-resume-analyzer/
