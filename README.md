@@ -1,5 +1,5 @@
 # AI Resume Analyzer
-
+🔗 **[Live Demo](https://ai-resume-analyzer-2i34of9br9auourym4kegs.streamlit.app)**
 An AI-powered web application that analyzes resumes (PDF format), extracts skills using NLP, scores the resume, and matches it against job-specific skill requirements — providing actionable improvement suggestions.
 
 Built with **Python**, **Streamlit**, **PyPDF2**, and **spaCy**.
