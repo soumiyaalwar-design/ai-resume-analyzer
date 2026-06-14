@@ -1,14 +1,3 @@
-"""
-AI Resume Analyzer (Advanced Edition)
---------------------------------------
-A Streamlit web app that analyzes resumes (PDF/DOCX), extracts skills using
-NLP (spaCy), checks contact info, sections, ATS-friendliness, action verbs,
-experience level, named entities, and compares against job roles or pasted
-job descriptions. Includes visual charts and score history tracking.
-
-Author: AI Resume Analyzer Team
-"""
-
 import re
 import io
 from datetime import datetime
